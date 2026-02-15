@@ -2,7 +2,14 @@
 
 A modern, dynamic portfolio website showcasing my work as a Backend Engineer specializing in scalable data systems and production-grade ETL pipelines.
 
-![Portfolio Preview](![portfolio 1] (https://github.com/user-attachments/assets/23e70159-8600-4587-8511-3ce022e95f5b)
+![Portfolio Preview] 
+![portfolio 1](https://github.com/user-attachments/assets/4a5d7c61-c5a1-4c0a-8feb-d0287e4adae0)
+
+![portfolio 3](https://github.com/user-attachments/assets/d89f07ce-ffb4-485e-aeda-07a199341824)
+
+![portfoli4](https://github.com/user-attachments/assets/e7da4320-1163-4638-91ea-96a2c7baa260)
+
+
 ![prtfolio5](https://github.com/user-attachments/assets/57fd31e0-e389-429a-bf6a-920345447da6)
 
 
