@@ -2,7 +2,8 @@
 
 A modern, dynamic portfolio website showcasing my work as a Backend Engineer specializing in scalable data systems and production-grade ETL pipelines.
 
-![Portfolio Preview](./preview.png)
+![Portfolio Preview](![portfolio 1](https://github.com/user-attachments/assets/23e70159-8600-4587-8511-3ce022e95f5b)
+)
 
 ## 🚀 Features
 
@@ -160,7 +161,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Email:** princeofpakki@gmail.com
 - **LinkedIn:** [linkedin.com/in/ashish-pakki-29a2b8259](https://www.linkedin.com/in/ashish-pakki-29a2b8259)
-- **Phone:** +91 8179859021
 
 ---
 
