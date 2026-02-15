@@ -1,0 +1,86 @@
+╔══════════════════════════════════════════════════════════════╗
+║                    QUICK START GUIDE                         ║
+║              Ashish Pakki's Portfolio Website                ║
+╚══════════════════════════════════════════════════════════════╝
+
+📦 SETUP (First Time Only)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Open Terminal/Command Prompt
+2. Navigate to project folder:
+   cd path/to/ashish-portfolio
+
+3. Install dependencies:
+   npm install
+
+🚀 RUN LOCALLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+npm run dev
+
+Then open: http://localhost:5173
+
+🏗️ BUILD FOR PRODUCTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+npm run build
+
+📤 UPLOAD TO GITHUB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/portfolio.git
+git branch -M main
+git push -u origin main
+
+🌐 DEPLOY ONLINE (FREE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Option 1 - Vercel (Easiest):
+  1. Go to vercel.com
+  2. Sign in with GitHub
+  3. Import your repository
+  4. Deploy!
+
+Option 2 - Netlify:
+  1. Go to netlify.com
+  2. Sign in with GitHub
+  3. Import repository
+  4. Deploy!
+
+📝 FILES INCLUDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ package.json          - Project dependencies
+✓ vite.config.js        - Vite configuration
+✓ tailwind.config.js    - Tailwind CSS config
+✓ index.html            - HTML template
+✓ src/App.jsx           - Main portfolio component
+✓ src/main.jsx          - React entry point
+✓ src/index.css         - Global styles
+✓ public/ashish-photo.jpeg - Your photo
+✓ README.md             - Full documentation
+✓ SETUP_GUIDE.md        - Detailed setup instructions
+✓ .gitignore            - Git ignore rules
+
+🔧 CUSTOMIZATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Edit src/App.jsx to update:
+  - Personal information
+  - Projects
+  - Experience
+  - Skills
+  - Contact details
+
+Replace public/ashish-photo.jpeg with your own photo
+
+⚡ REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Node.js v16 or higher
+✓ npm (comes with Node.js)
+✓ Git (for GitHub upload)
+
+📚 NEED HELP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Read SETUP_GUIDE.md for detailed instructions
+Read README.md for full documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Happy coding! 🚀
+Designed & Built by Ashish Pakki © 2025
